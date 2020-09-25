@@ -417,5 +417,5 @@ theoretical_lib.plot_res()
 ```
 
 
-![png](output_21_0.png)
+![png](output_20_0.png)
 
