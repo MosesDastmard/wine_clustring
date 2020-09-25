@@ -16,6 +16,10 @@ The purpose of this task is to cluster the wines based of 13 following features 
 12. OD280/OD315 of diluted wines
 13. Proline
 
+### What might pique your interests
+However the purpose of this project is clustring, you will find the k-median optimization problem modeled as Mixed Integer Linear Programming amazing. The python package <a href='https://pypi.org/project/PuLP/'> pulp </a> with Cplex core engine is an open source available package for python.
+Also, have you ever searched for animated plot in jupyter notebook? Download <a href='https://github.com/MosesDastmard/wine_clustring/blob/master/clustring.ipynb'>clustring.ipynb</a>. You will see how dynamically the clusters plot updated during k-means optimization.
+
 ### Scaling
 As far as we concern in clustring based on the distance of the points, the distance is sensitive to the unit of measurment. So for those features with higher unit of measurment contribute the most bias the distance to higher values and dominate those with less unit of measurment. So first step that must be taken is scaling the features to have the same unit of measurment.
 
