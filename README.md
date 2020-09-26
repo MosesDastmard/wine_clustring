@@ -1,3 +1,4 @@
+Keywords: Python, Clustring, K-means, K-median, Optimization, Pulp, Cplex, Animated Plot, Mixed Integer Linear Programming
 ## Find similar wines!
 The purpose of this task is to cluster the wines based of 13 following features using kmeans algorithm. The data provided with labels (Type column), so we keep in mind to avoid 'Type' contributing in clustring since we are dealing with unsupervised learning.
 
